@@ -2,6 +2,8 @@
 
 Welcome to the repository for the Interactive Map of the Easter Egg Hunt event in 2024! This project was created to assist participants in locating rooms for the event. The interactive map provides all the necessary paths to find the rooms and complete the tasks efficiently.
 
+![egg hunt map preview](./docs/egg_hunt_map_preview.gif)
+
 ## Features
 
 - Interactive Map: An interactive map that guided participants through the Easter Egg Hunt event.
